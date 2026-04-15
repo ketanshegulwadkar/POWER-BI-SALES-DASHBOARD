@@ -60,7 +60,6 @@ Created interactive dashboard using:
 
 * KPI Card (Total Sales)
 * Bar Chart (Sales by Region)
-* Pie Chart (Sales by Category)
 * Line Chart (Monthly Sales Trend)
 
 ### 5. Filters / Slicers
